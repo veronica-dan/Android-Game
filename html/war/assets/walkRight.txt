@@ -1,0 +1,25 @@
+walkRight.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-3
+  rotate: false
+  xy: 2, 79
+  size: 46, 75
+  orig: 70, 99
+  offset: 10, 15
+  index: -1
+Untitled-4
+  rotate: false
+  xy: 2, 156
+  size: 46, 71
+  orig: 70, 99
+  offset: 12, 15
+  index: -1
+Untitled-5
+  rotate: false
+  xy: 2, 2
+  size: 47, 75
+  orig: 51, 99
+  offset: 4, 15
+  index: -1

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Sorin\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.2.0-147e872bc851250bcdac42718b620f969ac38b77.jar"
+        jar="C:\Users\Sorin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.2.0\cc39fa3dbad14b247655266c10e64367418564bd\gdx-box2d-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cc39fa3dbad14b247655266c10e64367418564bd"/>
+    <item
+        dex="C:\Users\Sorin\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.2.0-38924abe99ff351581fadfd6715a4d37d482bb1c.jar"
+        jar="C:\Users\Sorin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.2.0\2ed57a7d155e5060ea773eed21804a23342fb47\gdx-backend-android-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="02ed57a7d155e5060ea773eed21804a23342fb47"/>
+    <item
+        dex="C:\Users\Sorin\Downloads\test\android\build\intermediates\pre-dexed\debug\core-1.0-626ec32a43a8ed9e51cbd6c1c3c51c3b6c061a93.jar"
+        jar="C:\Users\Sorin\Downloads\test\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5e57f705ed45a6eb1b80ec7e53f0a9eebd9cdd1e"/>
+    <item
+        dex="C:\Users\Sorin\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-1.2.0-557b786a4069e04704137b4669899bf580d3daf4.jar"
+        jar="C:\Users\Sorin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.2.0\eb55d6eb1165daf6be23189767c19d811ca5eb36\gdx-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb55d6eb1165daf6be23189767c19d811ca5eb36"/>
+
+</pre-dex-items>

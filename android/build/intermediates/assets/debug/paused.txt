@@ -1,0 +1,18 @@
+paused.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pause
+  rotate: false
+  xy: 2, 2
+  size: 113, 110
+  orig: 115, 112
+  offset: 1, 1
+  index: -1
+pauseclciked
+  rotate: false
+  xy: 2, 114
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1

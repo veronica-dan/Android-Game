@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Sorin\Downloads\test\android\assets" >
+            <file
+                name="background.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\background.png" />
+            <file
+                name="bugs/Untitled-1.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\Untitled-1.png" />
+            <file
+                name="bugs/Untitled-2.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\Untitled-2.png" />
+            <file
+                name="bugs/Untitled-3.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\Untitled-3.png" />
+            <file
+                name="bugs/walkDown.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkDown.png" />
+            <file
+                name="bugs/walkDown.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkDown.txt" />
+            <file
+                name="bugs/walkLeft.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkLeft.png" />
+            <file
+                name="bugs/walkLeft.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkLeft.txt" />
+            <file
+                name="bugs/walkRight.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkRight.png" />
+            <file
+                name="bugs/walkRight.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkRight.txt" />
+            <file
+                name="bugs/walkUp.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkUp.png" />
+            <file
+                name="bugs/walkUp.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\walkUp.txt" />
+            <file
+                name="button.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\button.png" />
+            <file
+                name="buttonclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\buttonclicked.png" />
+            <file
+                name="data/libgdx.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\data\libgdx.png" />
+            <file
+                name="data/loading.pack"
+                path="C:\Users\Sorin\Downloads\test\android\assets\data\loading.pack" />
+            <file
+                name="data/loading.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\data\loading.png" />
+            <file
+                name="default.fnt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\default.fnt" />
+            <file
+                name="default.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\default.png" />
+            <file
+                name="FONT.fnt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\FONT.fnt" />
+            <file
+                name="FONT.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\FONT.png" />
+            <file
+                name="FONT_0.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\FONT_0.png" />
+            <file
+                name="gotit.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\gotit.png" />
+            <file
+                name="gotit.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\gotit.txt" />
+            <file
+                name="gotitbutton.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\gotitbutton.png" />
+            <file
+                name="gotitbuttonclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\gotitbuttonclicked.png" />
+            <file
+                name="help.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\help.png" />
+            <file
+                name="help.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\help.txt" />
+            <file
+                name="helpbutton.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\helpbutton.png" />
+            <file
+                name="helpbuttonclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\helpbuttonclicked.png" />
+            <file
+                name="logo.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\logo.png" />
+            <file
+                name="logo2.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\logo2.png" />
+            <file
+                name="menu.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\menu.png" />
+            <file
+                name="menu.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\menu.txt" />
+            <file
+                name="menubutton.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\menubutton.png" />
+            <file
+                name="menubuttonclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\menubuttonclicked.png" />
+            <file
+                name="play.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\play.png" />
+            <file
+                name="play.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\play.txt" />
+            <file
+                name="text.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\text.png" />
+            <file
+                name="youLose.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\youLose.png" />
+            <file
+                name="youLose.psd"
+                path="C:\Users\Sorin\Downloads\test\android\assets\youLose.psd" />
+            <file
+                name="background2.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\background2.png" />
+            <file
+                name="food/2.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\2.png" />
+            <file
+                name="food/5eaten.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\5eaten.png" />
+            <file
+                name="food/4.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\4.png" />
+            <file
+                name="food/5.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\5.png" />
+            <file
+                name="food/3eaten.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\3eaten.png" />
+            <file
+                name="food/1eaten.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\1eaten.png" />
+            <file
+                name="food/4eaten.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\4eaten.png" />
+            <file
+                name="food/3.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\3.png" />
+            <file
+                name="food/2eaten.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\2eaten.png" />
+            <file
+                name="food/1.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\1.png" />
+            <file
+                name="pause.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\pause.png" />
+            <file
+                name="playbutton.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\playbutton.png" />
+            <file
+                name="resume.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\resume.txt" />
+            <file
+                name="pauseclciked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\pauseclciked.png" />
+            <file
+                name="paused.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\paused.png" />
+            <file
+                name="paused.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\paused.txt" />
+            <file
+                name="resume.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\resume.png" />
+            <file
+                name="playbuttonclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\playbuttonclicked.png" />
+            <file
+                name="background3.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\background3.png" />
+            <file
+                name="bugs/swatter.jpg"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\swatter.jpg" />
+            <file
+                name="bugs/dead.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\bugs\dead.png" />
+            <file
+                name="food/2eaten - Copy.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\food\2eaten - Copy.png" />
+            <file
+                name="nextclicked.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\nextclicked.png" />
+            <file
+                name="nextButton.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\nextButton.png" />
+            <file
+                name="next.txt"
+                path="C:\Users\Sorin\Downloads\test\android\assets\next.txt" />
+            <file
+                name="next.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\next.png" />
+            <file
+                name="levelFinished.png"
+                path="C:\Users\Sorin\Downloads\test\android\assets\levelFinished.png" />
+            <file
+                name="youLose-Recovered.psd"
+                path="C:\Users\Sorin\Downloads\test\android\assets\youLose-Recovered.psd" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Sorin\Downloads\test\android\src\debug\assets" />
+    </dataSet>
+
+</merger>

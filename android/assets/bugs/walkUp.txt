@@ -1,0 +1,25 @@
+walkUp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1
+  rotate: false
+  xy: 214, 2
+  size: 110, 118
+  orig: 102, 110
+  offset: 1, 0
+  index: -1
+Untitled-2
+  rotate: false
+  xy: 102, 2
+  size: 110, 118
+  orig: 112, 118
+  offset: 2, 0
+  index: -1
+Untitled-3
+  rotate: false
+  xy: 2, 2
+  size: 110, 118
+  orig: 108, 123
+  offset: 3, 0
+  index: -1

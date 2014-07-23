@@ -1,0 +1,18 @@
+resume.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+playbutton
+  rotate: false
+  xy: 2, 2
+  size: 113, 110
+  orig: 115, 112
+  offset: 1, 2
+  index: -1
+playbuttonclicked
+  rotate: false
+  xy: 117, 2
+  size: 109, 105
+  orig: 111, 107
+  offset: 0, 1
+  index: -1

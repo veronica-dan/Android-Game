@@ -1,0 +1,18 @@
+gotit.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gotitbutton
+  rotate: false
+  xy: 190, 2
+  size: 186, 98
+  orig: 186, 98
+  offset: 0, 0
+  index: -1
+gotitbuttonclicked
+  rotate: false
+  xy: 2, 2
+  size: 186, 98
+  orig: 186, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+help.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+helpbutton
+  rotate: true
+  xy: 140, 2
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+helpbuttonclicked
+  rotate: true
+  xy: 2, 2
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menubutton
+  rotate: true
+  xy: 2, 2
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+menubuttonclicked
+  rotate: false
+  xy: 2, 119
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
